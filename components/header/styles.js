@@ -2,8 +2,8 @@ import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
   screenBgColor: {
-    // backgroundColor: "#ed2b20",
     padding: 20,
+    paddingTop: 60,
   },
   flexDirection: {
     flexDirection: "row",
